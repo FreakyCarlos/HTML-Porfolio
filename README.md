@@ -1,2 +1,2 @@
 # HTML-Porfolio
-just a basic starter projectt
+just a basic starter project
